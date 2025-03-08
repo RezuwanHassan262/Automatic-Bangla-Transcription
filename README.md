@@ -14,6 +14,7 @@ So far, I developed a prototype version of the system for it to be integrated la
 I'm using an advanced model checkpoint to automatically transcribe the audios but one of the shortcomings of the model is it cannot process long audio files so I'm using another model through an API call that will split the audio data based on the vocal activity and filter out the silence parts to reduce the overall duration of the audio file and then will send these chunks to the transcription model work on.
 
 **Automatic Bangla Transcription**
+
 The model can transcribe standard Bangla speech with great accuracy but struggles to transcribe non-Bengali words or regional dialects in the speech.
 
 **Prototype model transcription**
