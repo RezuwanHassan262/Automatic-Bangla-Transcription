@@ -19,9 +19,13 @@ The model can transcribe standard Bangla speech with great accuracy but struggle
 
 **Prototype model transcription**
 
-I have done a prototype test of the system with different audio files of different audio formats and different lengths and the screenshot below shows the full automated transcription time and relevant information regarding the transcription process of those audio.
+I have done a prototype test of the system with different audio files of different formats and lengths. The screenshot below shows the full automated transcription time and relevant information regarding the transcription process of those audio files.
 
 ![automated transcripton screenshot](https://raw.githubusercontent.com/RezuwanHassan262/Automatic-Bangla-Transcription/main/images/Output_Screenshot.PNG) 
+
+The total transcription time of this system is given below.
+
+![transcription time screenshot](https://raw.githubusercontent.com/RezuwanHassan262/Automatic-Bangla-Transcription/main/images/Capture.PNG) 
 
 
 <h3 style=color:#fe5e21;>Note</h3>
