@@ -24,5 +24,9 @@ I have done a prototype test of the system with different audio files of differe
 ![automated transcripton screenshot](https://raw.githubusercontent.com/RezuwanHassan262/Automatic-Bangla-Transcription/main/images/Output_Screenshot.PNG) 
 
 
+<h3 style=color:#fe5e21;>Note</h3>
+
+Model outputs alone cannot be fully trusted for such tasks; human validation is essential before real-world application.
+
 
 
